@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # SoK of Used Cryptography in Blockchain
 The underlying fundaments of blockchain are cryptography and cryptographic concepts that provide reliable and secure decentralized solutions. Although many recent papers study the use-cases of blockchain in different industrial areas, such as finance, health care, legal relations, IoT, information security, and consensus building systems, only few studies scrutinize the cryptographic concepts used in blockchain. This Systematization of Knowledge (SoK) gives a complete picture of the existing cryptographic concepts which have been deployed or have the potential to be deployed in  blockchain.  The full content can be found [here](https://eprint.iacr.org/2019/735.pdf).
 
@@ -164,5 +163,3 @@ Develop protocols to certify the blocks of membership operation logs in permissi
    [Zerocoin]: <https://ieeexplore.ieee.org/document/6547123>
    [Zerocash]: <https://ieeexplore.ieee.org/document/6956581>
 =======
-# SoK-of-Used-Cryptography-in-Blockchain
->>>>>>> origin/master
