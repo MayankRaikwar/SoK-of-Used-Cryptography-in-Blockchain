@@ -1,5 +1,7 @@
 # SoK of Used Cryptography in Blockchain
-The underlying fundaments of blockchain are cryptography and cryptographic concepts that provide reliable and secure decentralized solutions. Although many recent papers study the use-cases of blockchain in different industrial areas, such as finance, health care, legal relations, IoT, information security, and consensus building systems, only few studies scrutinize the cryptographic concepts used in blockchain. This Systematization of Knowledge (SoK) gives a complete picture of the existing cryptographic concepts which have been deployed or have the potential to be deployed in  blockchain.  The full content can be found [here](https://eprint.iacr.org/2019/735.pdf).
+The underlying fundaments of blockchain are cryptography and cryptographic concepts that provide reliable and secure decentralized solutions. The following figure depicts the blockchain data structure and the fields needed to create the blocks. Although many recent papers study the use-cases of blockchain in different industrial areas, such as finance, health care, legal relations, IoT, information security, and consensus building systems, only few studies scrutinize the cryptographic concepts used in blockchain. This Systematization of Knowledge (SoK) gives a complete picture of the existing cryptographic concepts which have been deployed or have the potential to be deployed in  blockchain.  The full content can be found [here](https://eprint.iacr.org/2019/735.pdf).
+
+![Blockchain Data Structure](BC.png)
 
 <form method="POST" action="https://formspree.io/mayank.13031994@gmail.com">
   <input type="email" name="email" placeholder="Your email">
@@ -39,94 +41,99 @@ The underlying fundaments of blockchain are cryptography and cryptographic conce
 We also postulate 21 challenging problems that cryptographers interested in blockchain can work on. The problems are as follows:
 
 ----
-##### Research Problem 1:
+#### Research Problem 1:
 Construct sustainable blockchain systems that have one of the following properties:
 
 1. They are provably resistant to give mining advantages to ASIC miners as opposite to GPU and CPU miners.
 2. They are provably resistant to give mining advantages to ASIC and GPU miners as opposite to CPU miners.
 ----
-##### Research Problem 2:
+#### Research Problem 2:
 Construct a penetration testing tool irrespective of the blockchain platform to test the security and privacy requirements for each layer of any blockchain platform.
 
 ----
-##### Research Problem 3:
+#### Research Problem 3:
 Construct a new blockchain mechanism that periodically prunes its distributed ledger (reduces its size), producing a fresh but equivalent ledger, while prov- ably keeping correct state of all assets that are subject of the ledger transactions.
 
 ----
-##### Research Problem 4:
+#### Research Problem 4:
 Construct secure protocols for blockchain interoperability.
 
 ----
-##### Research Problem 5:
+#### Research Problem 5:
 Construct Forking-free consensus mechanism for permissionless public blockchain.
 
 ----
-##### Research Problem 6:
+#### Research Problem 6:
 Develop scalable protocols that will perform multi-hop payment-channel and path-based transactions with strong privacy guarantees even against an adversary that has network-level control.
 
 ----
-##### Research Problem 7:
+#### Research Problem 7:
 Develop fully functional state channel with strong security and privacy guarantee.
 
 ----
-##### Research Problem 8:
+#### Research Problem 8:
 Construct efficient, scalable, inexpen- sive and sustainable blockchain systems capable to handle and securely manage up to billions of IoT devices connected via the 5G network infrastructure.
 
 ----
-##### Research Problem 9:
+#### Research Problem 9:
 Develop security protocols that merge the existing standardized and legalized PKI systems with some of the developed blockchain systems.
 
 ----
-##### Research Problem 10:
+#### Research Problem 10:
 Design an anti-theft blockchain sys- tem, i.e., a system that guarantees a return of stolen assets back to their legitimate owners.
 
 ----
-##### Research Problem 11:
+#### Research Problem 11:
 Construct a new blockchain mech- anism that has comparably efficient public key addresses and comparably small digital signatures as the currently used ones, but that is based on Post-Quantum cryptographic schemes.
 
 ----
-##### Research Problem 12:
+#### Research Problem 12:
 Study the easiness/hardness of obfus- cating programs written in the scripting languages used in the current blockchain systems. Study the feasibility of applying some of the developed obfuscation techniques in C, C++, Java and Perl for the blockchain scripting languages.
 
 ----
-##### Research Problem 13:
+#### Research Problem 13:
 Construct an efficient new signature scheme based on aggregate signatures, that is specifically tailored for blockchain transactions.
 
 ----
-##### Research Problem 14:
+#### Research Problem 14:
 Construct an IBE based (or IBE related) permissioned blockchain network.
 
 ----
-##### Research Problem 15:
+#### Research Problem 15:
 Finding a post-quantum secure simple VDF for the use of blockchain.
 
 ----
-##### Research Problem 16:
+#### Research Problem 16:
 Develop protocols where non-anonymous users can publish transactions that cannot be linked to their network addresses or to their other transactions.
 
 ----
-##### Research Problem 17:
+#### Research Problem 17:
 Develop protocols where non-anonymous users can fetch details of specific transactions without revealing which transactions they seek.
 
 ----
-##### Research Problem 18:
+#### Research Problem 18:
 Develop efficient and scalable protocols for anonymous publishing on permissioned blockchains, by combining the asynchronous Byzantine- tolerant consensus protocols for agreeing on transactions with the process of mixing users’ announcements.
 
 ----
-##### Research Problem 19:
+#### Research Problem 19:
 Construct a decentralized authorization protocol for permissioned blockchain that will provide access privileges as well as a delegation of these access to the users.
 
 ----
-##### Research Problem 20:
+#### Research Problem 20:
 Construct a new blockchain mecha- nism that uses an incremental hash function for updates of the distributed ledger.
 
 ----
-##### Research Problem 21:
+#### Research Problem 21:
 Develop protocols to certify the blocks of membership operation logs in permissioned blockchain setting.
 
 ----
+If you have any suggestion or solution to any of the above problems, contact me at [mayank.raikwar@ntnu.no](mailto:mayank.raikwar@ntnu.no)
 
-
+<form action="https://formspree.io/mayank.13031994@gmail.com" method="POST">
+  <input type="text" name="name">
+  <input type="email" name="_replyto">
+  <input type="submit" value="Send">
+</form>
 
    [Hyperledger Fabric]: <https://arxiv.org/pdf/1801.10228.pdf>
    [FairAccess]: <https://onlinelibrary.wiley.com/doi/full/10.1002/sec.1748>
