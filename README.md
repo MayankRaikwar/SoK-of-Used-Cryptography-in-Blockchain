@@ -1,12 +1,8 @@
 # SoK of Used Cryptography in Blockchain
 The underlying fundaments of blockchain are cryptography and cryptographic concepts that provide reliable and secure decentralized solutions. The following figure depicts the blockchain data structure and the fields needed to create the blocks. Although many recent papers study the use-cases of blockchain in different industrial areas, such as finance, health care, legal relations, IoT, information security, and consensus building systems, only few studies scrutinize the cryptographic concepts used in blockchain. This Systematization of Knowledge (SoK) gives a complete picture of the existing cryptographic concepts which have been deployed or have the potential to be deployed in  blockchain.  The full content can be found [here](https://eprint.iacr.org/2019/735.pdf).
 
-![Blockchain Data Structure](BC.png)
+![Blockchain Data Structure](BC.jpg)
 
-<<<<<<< HEAD
-
-=======
->>>>>>> 4c952f4ad3b918397092c31603d8c040463da652
 ### Summary of Cryptographic Concept used in Blockchain
 
 | Cryptographic Concept | Properties | Instantiation (Reference) |
@@ -125,7 +121,7 @@ Construct a new blockchain mecha- nism that uses an incremental hash function fo
 Develop protocols to certify the blocks of membership operation logs in permissioned blockchain setting.
 
 ----
-If you have any suggestion or solution to any of the above problems, contact me at [mayank.raikwar@ntnu.no](mailto:mayank.raikwar@ntnu.no)
+If you have any suggestion or solution to any of the above problems, please contact me at [mayank.raikwar@ntnu.no](mailto:mayank.raikwar@ntnu.no)
 
    [Hyperledger Fabric]: <https://arxiv.org/pdf/1801.10228.pdf>
    [FairAccess]: <https://onlinelibrary.wiley.com/doi/full/10.1002/sec.1748>
