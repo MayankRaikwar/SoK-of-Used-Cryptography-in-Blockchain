@@ -46,7 +46,7 @@ Construct a penetration testing tool irrespective of the blockchain platform to 
 
 ----
 #### Research Problem 3:
-Construct a new blockchain mechanism that periodically prunes its distributed ledger (reduces its size), producing a fresh but equivalent ledger, while prov- ably keeping correct state of all assets that are subject of the ledger transactions.
+Construct a new blockchain mechanism that periodically prunes its distributed ledger (reduces its size), producing a fresh but equivalent ledger, while provably keeping correct state of all assets that are subject of the ledger transactions.
 
 ----
 #### Research Problem 4:
@@ -66,7 +66,7 @@ Develop fully functional state channel with strong security and privacy guarante
 
 ----
 #### Research Problem 8:
-Construct efficient, scalable, inexpen- sive and sustainable blockchain systems capable to handle and securely manage up to billions of IoT devices connected via the 5G network infrastructure.
+Construct efficient, scalable, inexpensive and sustainable blockchain systems capable to handle and securely manage up to billions of IoT devices connected via the 5G network infrastructure.
 
 ----
 #### Research Problem 9:
@@ -74,15 +74,15 @@ Develop security protocols that merge the existing standardized and legalized PK
 
 ----
 #### Research Problem 10:
-Design an anti-theft blockchain sys- tem, i.e., a system that guarantees a return of stolen assets back to their legitimate owners.
+Design an anti-theft blockchain system, i.e., a system that guarantees a return of stolen assets back to their legitimate owners.
 
 ----
 #### Research Problem 11:
-Construct a new blockchain mech- anism that has comparably efficient public key addresses and comparably small digital signatures as the currently used ones, but that is based on Post-Quantum cryptographic schemes.
+Construct a new blockchain mechanism that has comparably efficient public key addresses and comparably small digital signatures as the currently used ones, but that is based on Post-Quantum cryptographic schemes.
 
 ----
 #### Research Problem 12:
-Study the easiness/hardness of obfus- cating programs written in the scripting languages used in the current blockchain systems. Study the feasibility of applying some of the developed obfuscation techniques in C, C++, Java and Perl for the blockchain scripting languages.
+Study the easiness/hardness of obfuscating programs written in the scripting languages used in the current blockchain systems. Study the feasibility of applying some of the developed obfuscation techniques in C, C++, Java and Perl for the blockchain scripting languages.
 
 ----
 #### Research Problem 13:
@@ -106,7 +106,7 @@ Develop protocols where non-anonymous users can fetch details of specific transa
 
 ----
 #### Research Problem 18:
-Develop efficient and scalable protocols for anonymous publishing on permissioned blockchains, by combining the asynchronous Byzantine- tolerant consensus protocols for agreeing on transactions with the process of mixing users’ announcements.
+Develop efficient and scalable protocols for anonymous publishing on permissioned blockchains, by combining the asynchronous Byzantine-tolerant consensus protocols for agreeing on transactions with the process of mixing users’ announcements.
 
 ----
 #### Research Problem 19:
@@ -114,7 +114,7 @@ Construct a decentralized authorization protocol for permissioned blockchain tha
 
 ----
 #### Research Problem 20:
-Construct a new blockchain mecha- nism that uses an incremental hash function for updates of the distributed ledger.
+Construct a new blockchain mechanism that uses an incremental hash function for updates of the distributed ledger.
 
 ----
 #### Research Problem 21:
