@@ -3,7 +3,10 @@ The underlying fundaments of blockchain are cryptography and cryptographic conce
 
 ![Blockchain Data Structure](BC.png)
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 4c952f4ad3b918397092c31603d8c040463da652
 ### Summary of Cryptographic Concept used in Blockchain
 
 | Cryptographic Concept | Properties | Instantiation (Reference) |
@@ -123,12 +126,6 @@ Develop protocols to certify the blocks of membership operation logs in permissi
 
 ----
 If you have any suggestion or solution to any of the above problems, contact me at [mayank.raikwar@ntnu.no](mailto:mayank.raikwar@ntnu.no)
-
-<form action="https://formspree.io/mayank.13031994@gmail.com" method="POST">
-  <input type="text" name="name">
-  <input type="email" name="_replyto">
-  <input type="submit" value="Send">
-</form>
 
    [Hyperledger Fabric]: <https://arxiv.org/pdf/1801.10228.pdf>
    [FairAccess]: <https://onlinelibrary.wiley.com/doi/full/10.1002/sec.1748>
