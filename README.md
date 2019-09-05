@@ -3,11 +3,6 @@ The underlying fundaments of blockchain are cryptography and cryptographic conce
 
 ![Blockchain Data Structure](BC.png)
 
-<form method="POST" action="https://formspree.io/mayank.13031994@gmail.com">
-  <input type="email" name="email" placeholder="Your email">
-  <textarea name="message" placeholder="Test Message"></textarea>
-  <button type="submit">Send Test</button>
-</form>
 
 ### Summary of Cryptographic Concept used in Blockchain
 
