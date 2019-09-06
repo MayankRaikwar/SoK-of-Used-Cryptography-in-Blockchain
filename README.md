@@ -1,12 +1,27 @@
 # SoK of Used Cryptography in Blockchain
-The underlying fundaments of blockchain are cryptography and cryptographic concepts that provide reliable and secure decentralized solutions. The following figure depicts the blockchain data structure and the fields needed to create the blocks. Although many recent papers study the use-cases of blockchain in different industrial areas, such as finance, health care, legal relations, IoT, information security, and consensus building systems, only few studies scrutinize the cryptographic concepts used in blockchain. This Systematization of Knowledge (SoK) gives a complete picture of the existing cryptographic concepts which have been deployed or have the potential to be deployed in  blockchain.  The full content can be found [here](https://eprint.iacr.org/2019/735.pdf).
 
-![Blockchain Data Structure](BC.png)
+If you cite this work, please use the following bibtex format:
+```
+@article{DBLP:journals/corr/abs-1906-08609,
+  author    = {Mayank Raikwar and
+               Danilo Gligoroski and
+               Katina Kralevska},
+  title     = {SoK of Used Cryptography in Blockchain},
+  journal   = {CoRR},
+  volume    = {abs/1906.08609},
+  year      = {2019},
+  url       = {http://arxiv.org/abs/1906.08609},
+  archivePrefix = {arXiv},
+  eprint    = {1906.08609},
+  timestamp = {Mon, 24 Jun 2019 17:28:45 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/corr/abs-1906-08609},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+```
+The underlying fundaments of blockchain are cryptography and cryptographic concepts that provide reliable and secure decentralized solutions. The following figure depicts the blockchain data structure and the fields needed to create the blocks. Although many recent papers study the use-cases of blockchain in different industrial areas, such as finance, health care, legal relations, IoT, information security, and consensus building systems, only few studies scrutinize the cryptographic concepts used in blockchain. This Systematization of Knowledge (SoK) gives a complete picture of the existing cryptographic concepts which have been deployed or have the potential to be deployed in blockchain. The full content can be found [here](https://eprint.iacr.org/2019/735.pdf).
 
-<<<<<<< HEAD
+![Blockchain Data Structure](BC.jpg)
 
-=======
->>>>>>> 4c952f4ad3b918397092c31603d8c040463da652
 ### Summary of Cryptographic Concept used in Blockchain
 
 | Cryptographic Concept | Properties | Instantiation (Reference) |
@@ -50,7 +65,7 @@ Construct a penetration testing tool irrespective of the blockchain platform to 
 
 ----
 #### Research Problem 3:
-Construct a new blockchain mechanism that periodically prunes its distributed ledger (reduces its size), producing a fresh but equivalent ledger, while prov- ably keeping correct state of all assets that are subject of the ledger transactions.
+Construct a new blockchain mechanism that periodically prunes its distributed ledger (reduces its size), producing a fresh but equivalent ledger, while provably keeping correct state of all assets that are subject of the ledger transactions.
 
 ----
 #### Research Problem 4:
@@ -70,7 +85,7 @@ Develop fully functional state channel with strong security and privacy guarante
 
 ----
 #### Research Problem 8:
-Construct efficient, scalable, inexpen- sive and sustainable blockchain systems capable to handle and securely manage up to billions of IoT devices connected via the 5G network infrastructure.
+Construct efficient, scalable, inexpensive and sustainable blockchain systems capable to handle and securely manage up to billions of IoT devices connected via the 5G network infrastructure.
 
 ----
 #### Research Problem 9:
@@ -78,15 +93,15 @@ Develop security protocols that merge the existing standardized and legalized PK
 
 ----
 #### Research Problem 10:
-Design an anti-theft blockchain sys- tem, i.e., a system that guarantees a return of stolen assets back to their legitimate owners.
+Design an anti-theft blockchain system, i.e., a system that guarantees a return of stolen assets back to their legitimate owners.
 
 ----
 #### Research Problem 11:
-Construct a new blockchain mech- anism that has comparably efficient public key addresses and comparably small digital signatures as the currently used ones, but that is based on Post-Quantum cryptographic schemes.
+Construct a new blockchain mechanism that has comparably efficient public key addresses and comparably small digital signatures as the currently used ones, but that is based on Post-Quantum cryptographic schemes.
 
 ----
 #### Research Problem 12:
-Study the easiness/hardness of obfus- cating programs written in the scripting languages used in the current blockchain systems. Study the feasibility of applying some of the developed obfuscation techniques in C, C++, Java and Perl for the blockchain scripting languages.
+Study the easiness/hardness of obfuscating programs written in the scripting languages used in the current blockchain systems. Study the feasibility of applying some of the developed obfuscation techniques in C, C++, Java and Perl for the blockchain scripting languages.
 
 ----
 #### Research Problem 13:
@@ -110,7 +125,7 @@ Develop protocols where non-anonymous users can fetch details of specific transa
 
 ----
 #### Research Problem 18:
-Develop efficient and scalable protocols for anonymous publishing on permissioned blockchains, by combining the asynchronous Byzantine- tolerant consensus protocols for agreeing on transactions with the process of mixing users’ announcements.
+Develop efficient and scalable protocols for anonymous publishing on permissioned blockchains, by combining the asynchronous Byzantine-tolerant consensus protocols for agreeing on transactions with the process of mixing users’ announcements.
 
 ----
 #### Research Problem 19:
@@ -118,14 +133,20 @@ Construct a decentralized authorization protocol for permissioned blockchain tha
 
 ----
 #### Research Problem 20:
-Construct a new blockchain mecha- nism that uses an incremental hash function for updates of the distributed ledger.
+Construct a new blockchain mechanism that uses an incremental hash function for updates of the distributed ledger.
 
 ----
 #### Research Problem 21:
 Develop protocols to certify the blocks of membership operation logs in permissioned blockchain setting.
 
 ----
-If you have any suggestion or solution to any of the above problems, contact me at [mayank.raikwar@ntnu.no](mailto:mayank.raikwar@ntnu.no)
+#### Disclaimer
+All figures from the paper are given for free but under the Creative Commons licenses.
+
+
+*If you have any suggestion or solution to any of the above problems, please __contact me__ at [mayank.raikwar@ntnu.no](mailto:mayank.raikwar@ntnu.no)*
+
+
 
    [Hyperledger Fabric]: <https://arxiv.org/pdf/1801.10228.pdf>
    [FairAccess]: <https://onlinelibrary.wiley.com/doi/full/10.1002/sec.1748>
@@ -167,4 +188,3 @@ If you have any suggestion or solution to any of the above problems, contact me 
    [Runtime Self-Protection in Blockchain Ledger]: <https://www.researchgate.net/publication/326243461_Runtime_Self-Protection_in_a_Trusted_Blockchain-inspired_Ledger>
    [Zerocoin]: <https://ieeexplore.ieee.org/document/6547123>
    [Zerocash]: <https://ieeexplore.ieee.org/document/6956581>
-=======
