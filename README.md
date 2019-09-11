@@ -1,23 +1,5 @@
 # SoK of Used Cryptography in Blockchain
 
-If you cite this work, please use the following bibtex format:
-```
-@article{DBLP:journals/corr/abs-1906-08609,
-  author    = {Mayank Raikwar and
-               Danilo Gligoroski and
-               Katina Kralevska},
-  title     = {SoK of Used Cryptography in Blockchain},
-  journal   = {CoRR},
-  volume    = {abs/1906.08609},
-  year      = {2019},
-  url       = {http://arxiv.org/abs/1906.08609},
-  archivePrefix = {arXiv},
-  eprint    = {1906.08609},
-  timestamp = {Mon, 24 Jun 2019 17:28:45 +0200},
-  biburl    = {https://dblp.org/rec/bib/journals/corr/abs-1906-08609},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
-}
-```
 The underlying fundaments of blockchain are cryptography and cryptographic concepts that provide reliable and secure decentralized solutions. The following figure depicts the blockchain data structure and the fields needed to create the blocks. Although many recent papers study the use-cases of blockchain in different industrial areas, such as finance, health care, legal relations, IoT, information security, and consensus building systems, only few studies scrutinize the cryptographic concepts used in blockchain. This Systematization of Knowledge (SoK) gives a complete picture of the existing cryptographic concepts which have been deployed or have the potential to be deployed in blockchain. The full content can be found [here](https://eprint.iacr.org/2019/735.pdf).
 
 ![Blockchain Data Structure](BC.jpg)
@@ -140,8 +122,28 @@ Construct a new blockchain mechanism that uses an incremental hash function for 
 Develop protocols to certify the blocks of membership operation logs in permissioned blockchain setting.
 
 ----
+
+If you cite this work, please use the following bibtex format:
+```
+@article{DBLP:journals/corr/abs-1906-08609,
+  author    = {Mayank Raikwar and
+               Danilo Gligoroski and
+               Katina Kralevska},
+  title     = {SoK of Used Cryptography in Blockchain},
+  journal   = {CoRR},
+  volume    = {abs/1906.08609},
+  year      = {2019},
+  url       = {http://arxiv.org/abs/1906.08609},
+  archivePrefix = {arXiv},
+  eprint    = {1906.08609},
+  timestamp = {Mon, 24 Jun 2019 17:28:45 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/corr/abs-1906-08609},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+```
+
 #### Disclaimer
-All figures from the paper are given for free but under the Creative Commons licenses.
+All figures from the paper are given under the [Creative Commons License CC-BY-NC-ND-4.0](https://spdx.org/licenses/CC-BY-NC-ND-4.0.html) (where the name of the authors should always be mentioned).
 
 
 *If you have any suggestion or solution to any of the above problems, please __contact me__ at [mayank.raikwar@ntnu.no](mailto:mayank.raikwar@ntnu.no)*
