@@ -123,22 +123,18 @@ Develop protocols to certify the blocks of membership operation logs in permissi
 
 ----
 
-If you cite this work, please use the following bibtex format:
+This work is published in [IEEE Access Journal](https://ieeexplore.ieee.org/document/8865045). If you cite this work, please use the following bibtex format:
 ```
-@article{DBLP:journals/corr/abs-1906-08609,
-  author    = {Mayank Raikwar and
-               Danilo Gligoroski and
-               Katina Kralevska},
-  title     = {SoK of Used Cryptography in Blockchain},
-  journal   = {CoRR},
-  volume    = {abs/1906.08609},
-  year      = {2019},
-  url       = {http://arxiv.org/abs/1906.08609},
-  archivePrefix = {arXiv},
-  eprint    = {1906.08609},
-  timestamp = {Mon, 24 Jun 2019 17:28:45 +0200},
-  biburl    = {https://dblp.org/rec/bib/journals/corr/abs-1906-08609},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
+@ARTICLE{8865045, 
+author={M. {Raikwar} and D. {Gligoroski} and K. {Kralevska}}, 
+journal={IEEE Access}, 
+title={SoK of Used Cryptography in Blockchain}, 
+year={2019}, 
+volume={7}, 
+number={}, 
+pages={148550-148575}, 
+doi={10.1109/ACCESS.2019.2946983}, 
+ISSN={2169-3536}, 
 }
 ```
 
