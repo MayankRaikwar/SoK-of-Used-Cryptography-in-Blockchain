@@ -11,7 +11,7 @@ The underlying fundaments of blockchain are cryptography and cryptographic conce
 | [Access Control](https://en.wikipedia.org/wiki/Access_control) | Data privacy | [Hyperledger Fabric], [FairAccess], [AC] |
 | [Accumulator](https://en.wikipedia.org/wiki/Accumulator_(cryptography)) | Provides Membership Proofs, Anonymity | [Batching Techniques for Accumulators in Blockchain] |
 | [Aggregate Signature](https://link.springer.com/referenceworkentry/10.1007%2F978-1-4419-5906-5_139) | Fast Signature Verification | [Tested in Bitcoin] |
-| [Commitment Scheme](https://en.wikipedia.org/wiki/Commitment_scheme) | Non-Repudiation | [Used in Bullteproof] , [Monero] |
+| [Commitment Scheme](https://en.wikipedia.org/wiki/Commitment_scheme) | Non-Repudiation | [Used in Bullteproof], [Monero], [Ouroboros] |
 | [Decentralised Authorization](https://ieeexplore.ieee.org/document/4221107) | Data Privacy | [BlendCAC], [WAVE] |
 | [Encryption Scheme](https://en.wikipedia.org/wiki/Encryption) | Confidentiality and Anonymity | [Kadena], [Hyperledger Fabric], [Tendermint] |
 | [Identity Based Encryption](https://en.wikipedia.org/wiki/ID-based_encryption) | No Public Key Distribution Infrastructure | [BAVP], [BLIC] |
@@ -153,6 +153,7 @@ All figures from the paper are given under the [Creative Commons License CC-BY-N
    [Tested in Bitcoin]: <https://eprint.iacr.org/2018/414.pdf>
    [Used in Bullteproof]: <https://eprint.iacr.org/2017/1066.pdf>
    [Monero]: <https://web.getmonero.org>
+   [Ouroboros]: <https://ieeexplore.ieee.org/abstract/document/8835272>
    [BlendCAC]: <https://arxiv.org/pdf/1804.09267.pdf>
    [WAVE]: <https://www2.eecs.berkeley.edu/Pubs/TechRpts/2017/EECS-2017-234.pdf>
    [Kadena]: <https://kadena.io/docs/Kadena-ConsensusWhitePaper-Aug2016.pdf>
